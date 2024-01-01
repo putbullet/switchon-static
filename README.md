@@ -14,9 +14,9 @@ SwitchOn is a versatile company that manages a social media sub-company and an o
 
 ## Screenshots
 
-![SwitchOn Landing Page](screenshots/switchon_landing_page.png)
-![SwitchOn Join Us Page](screenshots/switchon_join_us_page.png)
-![SwitchOn Online Store](screenshots/switchon_online_store.png)
+![SwitchOn Landing Page](screen1.png)
+![SwitchOn Sign in Page](screen2.png)
+![SwitchOn Login](screen3.png)
 
 ## Getting Started
 
